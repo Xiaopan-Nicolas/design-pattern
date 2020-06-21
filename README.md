@@ -1,2 +1,3 @@
-# design-pattern
-java 设计模式 practice
+JAVA 设计模式 练习
+--
+[第一章 从面向对象到函数式编程](http://example.com/)
